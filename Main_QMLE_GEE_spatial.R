@@ -21,7 +21,7 @@ G=100
 # Number of Parameters
 m=2
 # Number of Monte-Carlo simulations
-NumIt=10
+NumIt=1000
 # The true value of Beta
 beta_0=c(1,1)
 # Spatial correlation parameter
