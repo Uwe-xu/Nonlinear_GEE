@@ -1,7 +1,7 @@
 # Replication codes for 
 # "Using generalized estimating equations to estimate nonlinear models with spatial data"
-# by Weining Wang, Jeffrey M. Wooldridge, Mengshan Xu, Cuicui Lu
-# Authors of the codes: Mengshan Xu, Weining Wang
+# by (anonymous)
+# Authors of the codes: (anonymous)
 # We thank Dr. Xuening Zhu for her participation and insightful discussions.
 
 rm(list=ls())
